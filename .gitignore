@@ -1,3 +1,13 @@
+## Generated files
+
+GeneratedFiles*
+mermaid-filter.err
+.DS_Store
+
+
+
+## Python and so on
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
